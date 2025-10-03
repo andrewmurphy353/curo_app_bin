@@ -22,4 +22,10 @@ SOFTWARE.
 
 ---
 
-Note: This MIT License applies only to the repository's metadata and assets (e.g., Flatpak manifest `app.curocalc.calculator.yml`, `app.curocalc.calculator.desktop`, `app.curocalc.calculator.metainfo.xml`). The Curo Calculator app binaries (Linux tarball `curocalc-release.tar.gz` and Android APK `curocalc-release.apk`) and the icon (`app.curocalc.calculator.svg`) are proprietary and subject to separate end-user license terms available at https://curocalc.app/terms. Redistribution of the binaries or the icon requires explicit permission from the author.
+Note: This MIT License applies only to the repository's metadata and assets 
+(e.g., Flatpak manifest `app.curocalc.calculator.yml`, `app.curocalc.calculator.desktop`,
+`app.curocalc.calculator.metainfo.xml`). The Curo Calculator app binaries 
+(Linux tarball `curocalc-release.tar.gz` and Android APK `curocalc-release.apk`) 
+and the icon (`app.curocalc.calculator.svg`) are proprietary and subject to 
+separate end-user license terms available at https://curocalc.app/terms. 
+Redistribution of the binaries or the icon requires explicit permission from the author.
