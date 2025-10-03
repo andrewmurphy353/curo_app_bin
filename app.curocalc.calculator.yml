@@ -17,7 +17,7 @@ modules:
     sources:
       - type: archive
         url: https://github.com/andrewmurphy353/curo_app_bin/releases/download/2.0.0/curocalc-2.0.0-linux-x86_64.tar.gz
-        sha256: 0ed3c4895a97655df2d4d82b2a987c4490eeb85794456685b3fc9e4744f291cd
+        sha256: c4bc88982d676e9056833e5c9c5497935907e78d8b8cd9ab1fc5006c0f0ec3d3
         strip-components: 1
         dest: curocalc  # Extracts contents to curocalc/ subdirectory
       - type: file
