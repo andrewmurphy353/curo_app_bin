@@ -24,7 +24,7 @@ The distributions include:
 ## Installation
 
 ### Linux (Flatpak)
-Install Curo Calculator via Flathub:
+Install [Curo Calculator](https://flathub.org/en/apps/app.curocalc.calculator) via Flathub:
 ```
 flatpak install flathub app.curocalc.calculator
 ```
