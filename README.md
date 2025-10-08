@@ -31,8 +31,7 @@ flatpak install flathub app.curocalc.calculator
 
 For manual installation or testing:
 1. Ensure Flatpak is installed on your system.
-2. Download `curocalc-[version]-linux-x86_64.tar.gz` from the [Releases](https://github.com/andrewmurphy353/curo_app_bin/releases) page.
-3. Use the provided Flatpak manifest (`app.curocalc.calculator.yml`) to build and install locally:
+2. Download and use the provided Flatpak manifest (`app.curocalc.calculator.yml`) from the [Releases](https://github.com/andrewmurphy353/curo_app_bin/releases) page to build and install locally:
    ```
    flatpak-builder --install build-dir app.curocalc.calculator.yml
    ```
