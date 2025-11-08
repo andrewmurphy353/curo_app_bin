@@ -47,6 +47,9 @@ For manual installation or testing:
 3. Open the APK file to install.
 4. **Note**: This is a self-signed APK for sideloading. For production use, consider Google Play distribution or RuStore (see https://curocalc.app for links).
 
+### Web Browser (PWA)
+1. Available online at https://pwa.curocalc.app
+
 ## About
 Curo Calculator is built on the open-source [Curo library](https://github.com/andrewmurphy353/curo), a feature-rich Dart library for instalment credit calculations, released under the MIT License. While the Curo Calculator app itself is proprietary, the core calculation engine is open-source, reflecting our commitment to the open-source community.
 
