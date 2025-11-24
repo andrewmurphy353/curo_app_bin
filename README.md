@@ -19,9 +19,9 @@ The distributions include:
   - Underlying calculation library: MIT License ([Curo library](https://github.com/andrewmurphy353/curo)).
 - **Releases**: 
   - Prebuilt binaries for Linux
-    - x86_64: built on Debian GNU/Linux 12 (bookworm), Flutter 3.35.7
-    - aarch64: built on Debian GNU/Linux 13 (trixie), Flutter 3.35.7
-  - Android: built with Flutter 3.35.7
+    - x86_64: built on Debian GNU/Linux 12 (bookworm), Flutter 3.38.2
+    - aarch64: built on Debian GNU/Linux 13 (trixie), Flutter 3.38.2
+  - Android: built with Flutter 3.38.2
   Download the latest from the [Releases](https://github.com/andrewmurphy353/curo_app_bin/releases) page.
 - **Support**: Report technical issues at https://github.com/andrewmurphy353/curo_app_bin/issues or contact curocalculator@gmail.com.
 - **Privacy Policy**: https://curocalc.app/privacy
